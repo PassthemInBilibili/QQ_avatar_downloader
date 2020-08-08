@@ -8,9 +8,9 @@ Actually at first, this code was for my studying of Python, which was a mess and
 
 First is to run this program. 
 
-'''
+```
 > python downloader.py
-'''
+```
 
 Then, you can see the time you open the program, and it will ask you for mode. 
 
@@ -18,10 +18,10 @@ If you enter nothing or enter "a", it goes to the mode A, which will read "list.
 
 In the "list.txt", you can write like: 
 
-'''
+```
 Ruixi_Xia 2781827514
 Haowei_Mao 2428691146
-'''
+```
 
 Remember not to write any empty line. 
 
